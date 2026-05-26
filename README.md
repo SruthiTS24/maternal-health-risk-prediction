@@ -37,10 +37,10 @@ medical intervention.
 ## Project Structure
 `````
 maternal-health-risk-prediction/
+├──maternal_health_risk_dataset.csv
 ├── Maternal_Health_Risk_Prediction.ipynb  ← complete final notebook
 ├── Maternal_Risk_Preprocessing_EDA.ipynb  ← progress submission 1
 ├── Maternal_Risk_Model_Building_Evaluation.ipynb  ← progress submission 2
-├── maternal_health_risk_dataset.csv
 ├── maternal_health_risk_model.pkl
 ├── scaler.pkl
 └── README.md
