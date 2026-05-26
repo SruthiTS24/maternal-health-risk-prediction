@@ -76,7 +76,7 @@ maternal-health-risk-prediction/
 - Confusion Matrix
 - ROC Curve and AUC Score
 - 
-- **8. Cross Validation**
+ **7. Cross Validation**
 - K-Fold cross validation (k=5) on best model (Logistic Regression) to assess generalization performance
 
 **8. Hyperparameter Tuning**
