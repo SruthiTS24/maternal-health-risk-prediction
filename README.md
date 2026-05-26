@@ -129,15 +129,16 @@ a sample patient record with high risk clinical indicators.
 
 ## Requirements
 
-->pandas<br>
-->numpy<br>
-->matplotlib<br>
-->seaborn<br>
-->scikit-learn<br>
-->xgboost<br>
-->imbalanced-learn<br>
-->joblib
-
+```
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+imbalanced-learn
+joblib
+```
 ------
 
 ## Conclusion
